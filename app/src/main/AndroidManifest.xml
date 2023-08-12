@@ -13,7 +13,7 @@
         android:theme="@style/Theme.MyApplicationDemo02"
         tools:targetApi="31">
         <activity
-            android:name=".ListViewActivity"
+            android:name=".SpinnerActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.MyApplicationDemo02">
