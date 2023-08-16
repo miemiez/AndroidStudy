@@ -22,5 +22,4 @@
         android:minHeight="5dp"
         android:progressDrawable="@drawable/sb_bar"
         android:thumb="@drawable/sb_thumb"/>
-
 </LinearLayout>
