@@ -1,14 +1,19 @@
 <resources>
-<string name="app_name">My Application demo02</string>
-<string name="abc">sdfsdfsdfsdfsdsf</string>
-<string-array name="data">
-    <item>英勇青铜</item>
-    <item>不屈白银</item>
-    <item>荣耀黄金</item>
-    <item>华贵铂金</item>
-    <item>璀璨钻石</item>
-    <item>超凡大师</item>
-    <item>最强王者</item>
-</string-array>
-<string name="spin_title">分段选择</string>
+    <string name="app_name">myapp</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="account_hint">请输入用户名</string>
+    <string name="pwd_hint">请输入密码</string>
+    <string-array name="data">
+        <item>英勇青铜</item>
+        <item>不屈白银</item>
+        <item>荣耀黄金</item>
+        <item>华贵铂金</item>
+        <item>璀璨钻石</item>
+        <item>超凡大师</item>
+        <item>最强王者</item>
+    </string-array>
+    <string name="spin_title">分段选择</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
